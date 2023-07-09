@@ -3,7 +3,7 @@
 - :monkey: I’m currently learning dev skills of apps.
 - :pig: I’m looking to exchange thoughts on life and work.
 - :man: I'm a father of two kids.
-- :house_with_garden: [Click to visit my home page](https://kuiyonggen.github.io)
+- :house_with_garden: [Click here to visit my home page.](https://kuiyonggen.github.io)
 
 
 <!---
