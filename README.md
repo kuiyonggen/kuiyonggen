@@ -1,4 +1,3 @@
-- :house_with_garden: [Click here to visit my home page.](https://kuiyonggen.github.io)
 
 
 <!---
